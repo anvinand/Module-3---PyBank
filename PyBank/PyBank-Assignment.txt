@@ -1,0 +1,7 @@
+Module 3 - PyBank Assignment Output!
+Financial Analysis 
+----------------------------------------------------- 
+The total number of months included in the dataset is 86The net total amount of Profit/Losses over the entire period is 22564198.0
+The average changes in Profit/Losses over the entire period is -8311.11 
+The greatest decrease in profits Aug-16: 1862002.0 
+The greatest decrease in profits Feb-14: -1825558.0 
